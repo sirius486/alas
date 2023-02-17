@@ -403,7 +403,7 @@ class ConfigGenerator:
     def generate_deploy_template():
         template = poor_yaml_read(DEPLOY_TEMPLATE)
         cn = {
-            'Repository': 'https://gitee.com/lmeszinc/azur-lane-auto-script-mirror',
+            'Repository': 'https://gitee.com/sirius486/alas',
             'PypiMirror': 'https://pypi.tuna.tsinghua.edu.cn/simple',
         }
         aidlux = {

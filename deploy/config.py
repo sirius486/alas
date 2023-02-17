@@ -72,7 +72,7 @@ class DeployConfig(ConfigModel):
         self.config = {}
         self.read()
         if self.Repository == 'https://gitee.com/LmeSzinc/AzurLaneAutoScript':
-            self.Repository = 'https://gitee.com/lmeszinc/azur-lane-auto-script-mirror'
+            self.Repository = 'https://gitee.com/sirius486/alas'
         self.write()
         self.show_config()
 

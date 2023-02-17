@@ -8,8 +8,8 @@
 在欲安装 alas 的目录下执行
 
 ```bash
-git clone git@github.com:LmeSzinc/AzurLaneAutoScript.git
-# 或 git clone https://github.com/LmeSzinc/AzurLaneAutoScript.git
+git clone git@github.com:sirius486/alas.git
+# 或 git clone https://github.com/sirius486/alas.git
 ```
 克隆整个 git 仓库
 
